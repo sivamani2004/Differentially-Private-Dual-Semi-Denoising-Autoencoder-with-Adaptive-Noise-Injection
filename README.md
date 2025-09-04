@@ -1,3 +1,3 @@
-The DP-DAE pdf is the original research paper with no code.
-Original implementation of this paper, and modified approach are in 'implementation.ipynb' file.
-Implemented this on MovieLens-100k dataset. 
+- The DP-DAE pdf is the original reference research paper with no code.
+- Original implementation of this paper, and modified approach are in 'implementation.ipynb' file.
+- Dataset used for this implementation is MovieLens 100k dataset.
